@@ -1,1 +1,3 @@
+#AgentCore capability it provesClaude API feature1Discovery Call AnalyzerTurns a messy call transcript into structured qualification data + a follow-up emailCustom tool + structured output2Competitive Battlecard AgentResearches a named competitor live and produces a sales battlecardServer-side web search tool3POC Architecture AgentTakes a customer's stack description and generates an integration architecture diagram + docCode execution tool (renders a Mermaid diagram to an image, writes a file)
 
+Each is a self-contained CLI script — no framework, no server required to ship day one. That's deliberate: a working script beats a half-deployed web app when you only have a day.
